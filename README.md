@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm NEHA M B💕</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 I’m currently working on **YouTube Clone**
+- 🔭 I’m currently working on **APPLE Clone**
 
 - 🌱 I’m currently learning **Python,bootstrap,javascript,react,angular,node js**
 
